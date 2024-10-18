@@ -1,4 +1,3 @@
-# DPFS_carolina_umisedo
 # Proyecto Ecommerce
 
 <p>**Propuesta de proyecto de sitio web:** ecommerce de venta de muebles y artículos de decoración para el hogar.</p>

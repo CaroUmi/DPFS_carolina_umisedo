@@ -12,16 +12,16 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 ### Principales Características del Proyecto
 
 * <p>Navegación Fluida e Intuitiva:
-El sitio está organizado de forma clara, permitiendo que los usuarios exploren los productos de manera natural, la estructura facilita un recorrido ágil y satisfactorio.
+  El sitio está organizado de forma clara, permitiendo que los usuarios exploren los productos de manera natural, la estructura facilita un recorrido ágil y satisfactorio.
 </p>
-* <p>Diseño Responsive:
-El diseño está totalmente optimizado para dispositivos móviles, lo que asegura que los usuarios puedan navegar y realizar compras cómodamente desde cualquier dispositivo, ya sea un teléfono móvil, tablet o computadora.
+* <p>Diseño Responsive: 
+  El diseño está totalmente optimizado para dispositivos móviles, lo que asegura que los usuarios puedan navegar y realizar compras cómodamente desde cualquier dispositivo, ya sea un teléfono móvil, tablet o computadora.
 </p>
 * <p>Proceso de Compra Simplificado:
-Los pasos son sencillos, minimizando cualquier posible fricción para que el cliente pueda finalizar su compra con facilidad.
+  Los pasos son sencillos, minimizando cualquier posible fricción para que el cliente pueda finalizar su compra con facilidad.
 </p>
-* <p>Optimización de Velocidad:
-Un sitio rápido es clave para retener a los visitantes, por lo que cada elemento del sitio ha sido optimizado para asegurar tiempos de carga mínimos, mejorando tanto la experiencia de usuario como el rendimiento en los motores de búsqueda.
+* <p>Optimización de Velocidad: 
+  Un sitio rápido es clave para retener a los visitantes, por lo que cada elemento del sitio ha sido optimizado para asegurar tiempos de carga mínimos, mejorando tanto la experiencia de usuario como el rendimiento en los motores de búsqueda.
 </p>
 
 ### Enfoque en el Público Objetivo
@@ -49,6 +49,7 @@ Un sitio rápido es clave para retener a los visitantes, por lo que cada element
 #### Fuentes
 ###### - Fuente Principal
 ![fuente-lato-bold.png](https://i.postimg.cc/4NzBKjvQ/fuente-lato-bold.png)
+
 ###### - Fuente Secundaria
 ![fuente-roboto-bold.png](https://i.postimg.cc/BvvgV6rm/fuente-roboto-bold.png)
 

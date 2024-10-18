@@ -11,16 +11,16 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 
 ### Principales Características del Proyecto
 
-* <p>	**Navegación Fluida e Intuitiva:**
+* <p>Navegación Fluida e Intuitiva:
 El sitio está organizado de forma clara, permitiendo que los usuarios exploren los productos de manera natural, la estructura facilita un recorrido ágil y satisfactorio.
 </p>
-* <p>	**Diseño Responsive:**
+* <p>Diseño Responsive:
 El diseño está totalmente optimizado para dispositivos móviles, lo que asegura que los usuarios puedan navegar y realizar compras cómodamente desde cualquier dispositivo, ya sea un teléfono móvil, tablet o computadora.
 </p>
-* <p>	**Proceso de Compra Simplificado: **
+* <p>Proceso de Compra Simplificado:
 Los pasos son sencillos, minimizando cualquier posible fricción para que el cliente pueda finalizar su compra con facilidad.
 </p>
-* <p>	**	Optimización de Velocidad: **
+* <p>Optimización de Velocidad:
 Un sitio rápido es clave para retener a los visitantes, por lo que cada elemento del sitio ha sido optimizado para asegurar tiempos de carga mínimos, mejorando tanto la experiencia de usuario como el rendimiento en los motores de búsqueda.
 </p>
 
@@ -28,10 +28,15 @@ Un sitio rápido es clave para retener a los visitantes, por lo que cada element
 <p>El diseño y la funcionalidad de la página están completamente alineados con las necesidades de su público: personas de entre 30 y 60 años que buscan embellecer sus hogares con muebles elegantes y modernos, que valoran la calidad y la funcionalidad. Utilizamos tipografía elegante y moderna junto con imágenes de alta resolución para transmitir una experiencia visual que resuene con este perfil de cliente.
 </p>
 ### Referencias de sitios
+
 ##### 1.  [Cousy Home](https://www.cousyhome.com/)
+
 ##### 2.  [La Afortunada](https://laafortunadadeco.com.ar/)
+
 ##### 3.  [Magnolias](https://www.magnoliasdeco.com.ar/)
+
 ##### 4.  [Antaix](https://antaix.com/)
+
 ##### 5.  [Silvina C](https://silvinac.com.ar/)
 
 <p>Este proyecto no solo busca crear una tienda en línea, sino una experiencia donde el cliente se sienta inspirado, cómodo y motivado a explorar y adquirir productos. 

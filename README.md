@@ -16,8 +16,10 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 
 * <p>Diseño Responsive: El diseño está totalmente optimizado para dispositivos móviles, lo que asegura que los usuarios puedan navegar y realizar compras cómodamente desde cualquier dispositivo, ya sea un teléfono móvil, tablet o computadora.
 </p>
+
 * <p>Proceso de Compra Simplificado: Los pasos son sencillos, minimizando cualquier posible fricción para que el cliente pueda finalizar su compra con facilidad.
 </p>
+
 * <p>Optimización de Velocidad: Un sitio rápido es clave para retener a los visitantes, por lo que cada elemento del sitio ha sido optimizado para asegurar tiempos de carga mínimos, mejorando tanto la experiencia de usuario como el rendimiento en los motores de búsqueda.
 </p>
 
@@ -38,6 +40,7 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 
 <p>Este proyecto no solo busca crear una tienda en línea, sino una experiencia donde el cliente se sienta inspirado, cómodo y motivado a explorar y adquirir productos. 
 </p>
+
 ### Estilos del Sitio
 #### Logo del Sitio
 

@@ -41,6 +41,9 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 </p>
 
 ### Estilos del Sitio
+#### Wireframe
+[Wireframe del sitio](https://www.figma.com/design/Ji4pDLsh18Sl3y4M1HHg1K/Wireframe?node-id=0-1&m=dev&t=nK8waptREo9D166T-1 "Wireframe del sitio")
+
 #### Logo del Sitio
 
 ![logo-color.png](https://i.postimg.cc/Yq5BkcrN/logo-color.png)

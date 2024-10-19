@@ -25,6 +25,7 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 ### Enfoque en el Público Objetivo
 <p>El diseño y la funcionalidad de la página están completamente alineados con las necesidades de su público: personas de entre 30 y 60 años que buscan embellecer sus hogares con muebles elegantes y modernos, que valoran la calidad y la funcionalidad. Utilizamos tipografía elegante y moderna junto con imágenes de alta resolución para transmitir una experiencia visual que resuene con este perfil de cliente.
 </p>
+
 ### Referencias de sitios
 
 ##### 1.  [Cousy Home](https://www.cousyhome.com/)

@@ -45,6 +45,10 @@ Este diseño no solo es visualmente atractivo, sino que también garantiza una e
 #### Wireframe
 [Wireframe del sitio](https://www.figma.com/design/Ji4pDLsh18Sl3y4M1HHg1K/Wireframe?node-id=0-1&m=dev&t=nK8waptREo9D166T-1 "Wireframe del sitio")
 
+#### Tablero Trello
+
+[Enlace al tablero](https://trello.com/invite/b/6714aff995480e3f6bfef93d/ATTI981837bfda95fb4baca7bbb4345341b408787E7D/digital-house)
+
 #### Logo del Sitio
 
 ![logo-color.png](https://i.postimg.cc/Yq5BkcrN/logo-color.png)
